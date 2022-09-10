@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Good morning team how was your day what is the plan for 
+=======
+Good morning team what is the plan for today
+>>>>>>> e62aea654776fa961604930937a3bfcaee4a2038
