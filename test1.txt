@@ -2,4 +2,8 @@
 Good morning team how was your day what is the plan for 
 =======
 Good morning team what is the plan for today
+<<<<<<< Updated upstream
 >>>>>>> e62aea654776fa961604930937a3bfcaee4a2038
+=======
+Lets learn conflict
+>>>>>>> Stashed changes
